@@ -1,6 +1,9 @@
-body {
+html {
 	background-color:yellow;
-}
+	background: url('http://saga-tech.ru/images/fon/backgroun22d3.jpg') 
+	no-repeat center top;
+
+	}
 #colorname {color:green}
 h1#example:first-letter {color: red}
 .href {
