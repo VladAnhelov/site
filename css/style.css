@@ -1,3 +1,6 @@
+* {
+	font-size:1.1em;
+}
 html {
 	background-color:yellow;
 	background: url('http://saga-tech.ru/images/fon/backgroun22d3.jpg') 
@@ -13,5 +16,15 @@ h1#example:first-letter {color: red}
 
 .href:active {
 	color:pink;
+	}
+	#textstyles:hover {
+		background-color:green;
+	}
+	#textstyles {
+		font-weight:normal;
+		font-family:Comic Sans MS;
+		text-align: center;
+		word-spacing: 10px;
+		letter-spacing: 3px;
 	}
 
