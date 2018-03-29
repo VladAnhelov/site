@@ -2,5 +2,13 @@ body {
 	background-color:yellow;
 }
 #colorname {color:green}
-h1#example:first-letter {color: red};
+h1#example:first-letter {color: red}
+.href {
+	color:gray;
+	text-decoration: underline;
+}
+
+.href:active {
+	color:pink;
+	}
 
