@@ -1,5 +1,6 @@
 body {
-	background-color:blue;
+	background-color:yellow;
 }
+#colorname {color:green}
+h1#example:first-letter {color: red};
 
-h1 {color: red};
